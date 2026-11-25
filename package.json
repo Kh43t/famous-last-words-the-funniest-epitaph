@@ -1,0 +1,1 @@
+{"description":"The funniest one-line tombstone epitaph: Dave died doing what he loved, being right. He was wrong about the ladder.","engines":{"node":">=22.18"},"license":"MIT","name":"famous-last-words-the-funniest-epitaph","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
